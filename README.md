@@ -1,4 +1,4 @@
-![Screenshot](screenshot-3107.png)
+
 
 
 <!--
