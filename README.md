@@ -2,8 +2,12 @@
 ## Here is some information about my education, skills and interests ☕
 
 ![Screenshot](screenshot-3107v2.png)
-_This is a screenshot of a tiny HTML page I created using elements from a github library (https://github.com/jdan/98.css) and my custom css. It's supposed to represent a computer screen running on Windows 98 because I like that aesthetic, but you'll  is the most recent update of 31-07_
+_This is a screenshot of a tiny HTML page I created using elements from a github library (https://github.com/jdan/98.css) and my custom css. It's supposed to represent a computer screen running on Windows 98 because I like that aesthetic, but you'll have to do with the most recent update of 31-07_
 
+Explore my recent projects:
+- Data Science: https://github.com/Ant-On-03/4BytesTheBullets
+- Information Organization and Web Technologies: far-fromm-homme.github.io/Far-FroMM-HoMMe/
+- Knowledge Organization: Libraries, Archives and Museums: https://digitalctrlv.github.io/LifeOfDiana/
 <!--
 **digitalctrlv/digitalctrlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
