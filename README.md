@@ -2,7 +2,7 @@
 ## Here is some information about my education, skills and interests ☕
 
 ![Screenshot](screenshot-3107v2.png)
-
+_This is a screenshot of a tiny HTML page I created using elements from a github library (https://github.com/jdan/98.css) and my custom css. It's supposed to represent a computer screen running on Windows 98 because I like that aesthetic, but you'll  is the most recent update of 31-07_
 
 <!--
 **digitalctrlv/digitalctrlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
