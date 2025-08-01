@@ -1,3 +1,4 @@
+Hi 👋 Some information about my education, skills and interests ☕
 ![Screenshot](screenshot-3107v2.png)
 
 
