@@ -6,13 +6,13 @@ _This is a screenshot of a tiny HTML page I created using elements from a github
 
 ### Explore my recent projects
 #### 4BytesTheBullets
-A software that processes data of scholarly journals stored in different formats (JSON and CSV) and uploads them into two distinct databases to query these databases (Blazegraph and SQL) simultaneously according to predefined operations. The architecture that our team '4BytesTheBullets' has built for this Data Science project is available in our [github repository](https://github.com/Ant-On-03/4BytesTheBullets) including the workflow and UML diagrams describing the data models. 
-⚙️_Data Science Object-oriented programming, python_
+Software that processes scholarly journal data (JSON and CSV) and uploads to two databases (Blazegraph and SQL) for simultaneous querying. Our team's architecture for this Data Science project is available in our [github repository](https://github.com/Ant-On-03/4BytesTheBullets) with workflow and UML diagrams.
+⚙️ _Data Science Object-oriented programming, python_
 
 #### LifeOfDiana
-A [webpage](https://digitalctrlv.github.io/LifeOfDiana/) documenting the structured data produced subjecting the life of Lady Diana Spencer according to Linked Open Data principles for Libraries, Archives and Museums. Starting from 10 multimedia items that describe key moments in the life of our subject, we analyzed each object's metadata and built two models to align these with formal standards and vocabularies, enablign a conversion from text to (LOD) RDF.
-⚙️_Metadata, Digital Archiving, XML, HTML, python_
+A [webpage](https://digitalctrlv.github.io/LifeOfDiana/) documenting structured data on Lady Diana Spencer's life using Linked Open Data principles for Libraries, Archives and Museums. From 10 multimedia items describing key moments, we analyzed metadata and built models aligning with formal standards, enabling text to RDF conversion.
+⚙️ _Metadata, Digital Archiving, XML, HTML, python_
 
 ### Far From Home
-A [virtual exhibition](https://far-fromm-homme.github.io/Far-FroMM-HoMMe/documentation.html) and digital companion app that organizes the physical objects of an imaginative exhibition set in a fictional real-world museum. In this project for the course 'Information Modeling and Web Technologies' our team researched and emulated current web and app design practices used by museums for the digital presentation of their collections and exhibitions.  
-⚙️_CSS, HTML, JavaScript_
+A [virtual exhibition](https://far-fromm-homme.github.io/Far-FroMM-HoMMe/documentation.html)  and digital companion app organizing physical objects for an imaginative museum exhibition. For 'Information Modeling and Web Technologies,' our team researched and emulated current museum web practices for digital collection presentation.
+⚙️ _CSS, HTML, JavaScript_
