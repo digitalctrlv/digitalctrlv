@@ -18,5 +18,5 @@ A [virtual exhibition](https://far-fromm-homme.github.io/Far-FroMM-HoMMe/documen
 ⚙️ _CSS, HTML, JavaScript_
 
 ### Previous projects
-#### Classification of Modern Sculpture Using Convolutional Neural Networks (2022-2023)
+#### 🏛️ Classification of Modern Sculpture Using Convolutional Neural Networks (2022-2023)
 A project scaling the classification of images of modern and contemporary sculptures derived from the collection of Museum Beelden aan Zee in Scheveningen using Convolutional Neural Networks, conducted for the minor Digital Humanities at Leiden University: ![Repository](sculpture-classification).
