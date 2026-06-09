@@ -5,6 +5,12 @@
 _This is a screenshot of a tiny HTML page I created using elements from a github library (https://github.com/jdan/98.css) and my custom css. It's supposed to represent a computer screen running on Windows 98 because... I like that aesthetic 😅 However, it is not yet entirely finished, so you'll have to enjoy the most recent update of 31-07!_
 
 ### Explore my recent projects
+#### Ontologycore 
+to be continued...
+
+#### Network Analysis: 'A Cross National Network Analysis of Social Political Attitudes from the European Social Survey'
+to be continued...
+
 #### 🐍 4BytesTheBullets (2024-2025)
 Software that processes scholarly journal data (JSON and CSV) and uploads to two databases (Blazegraph and SQL) for simultaneous querying. Our team's architecture for this Data Science project is available in our [github repository](https://github.com/Ant-On-03/4BytesTheBullets) with workflow and UML diagrams.
 ⚙️ _Data Science Object-oriented programming, python_
